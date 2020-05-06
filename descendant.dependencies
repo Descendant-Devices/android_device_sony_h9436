@@ -2,5 +2,6 @@
   {
     "repository": "device_sony_customization",
     "target_path": "device/sony/customization"
+    "branch": "beta-sony"
   }
 ]
